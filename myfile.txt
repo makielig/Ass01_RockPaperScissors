@@ -1,0 +1,10 @@
+Malu
+win
+Malu
+win
+Malu
+NULL
+Malu
+draw
+Malu
+lose
